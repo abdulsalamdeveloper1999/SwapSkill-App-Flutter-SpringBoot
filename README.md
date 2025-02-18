@@ -50,7 +50,7 @@ SkillSwap is a mobile application that connects users based on complementary ski
 #### Backend Setup
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/skillswap.git
+   git clone [https://github.com/yourusername/skillswap.git](https://github.com/abdulsalamdeveloper1999/SwapSkill-App-Flutter-SpringBoot.git)
    cd skillswap/backend
    ```
 
